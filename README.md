@@ -1,2 +1,2 @@
 # MemoryGame
-small graphical python game
+graphical python game
